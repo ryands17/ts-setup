@@ -1,5 +1,7 @@
 # TypeScript + esbuild dev setup
 
+[![Build Status](https://github.com/ryands17/ts-setup/actions/workflows/main.yml/badge.svg)](https://github.com/ryands17/ts-setup/actions/workflows/main.yml)
+
 This is a basic TypeScript and esbuild dev setup created with [Esbuild Runner (esr)](https://github.com/folke/esbuild-runner) and Nodemon along with tests using in Jest. The development and test times are significantly faster when using esbuild as opposed to `tsc`.
 
 This can be used to create a simple CLI or a full-fledged API.
