@@ -19,7 +19,7 @@
     "esbuild": "0.14.38",
     "esbuild-runner": "2.2.1",
     "husky": "7.0.4",
-    "jest": "27.4.7",
+    "jest": "27.5.1",
     "lint-staged": "12.3.7",
     "nodemon": "2.0.16",
     "prettier": "2.6.1",
