@@ -14,8 +14,8 @@
   "author": "Ryan",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "27.5.2",
-    "@types/node": "16.18.96",
+    "@types/jest": "29.5.12",
+    "@types/node": "20.12.7",
     "esbuild": "0.20.2",
     "esbuild-runner": "2.2.2",
     "husky": "7.0.4",
