@@ -15,7 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "30.0.0",
-    "@types/node": "22.19.13",
+    "@types/node": "22.19.15",
     "esbuild": "0.27.3",
     "esbuild-runner": "2.2.2",
     "husky": "9.1.7",
